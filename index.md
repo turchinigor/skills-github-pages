@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: plant
 ---
 
+what the hell am I doing
